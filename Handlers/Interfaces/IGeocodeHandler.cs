@@ -1,6 +1,4 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using GeoLambdaApi.Models;
+﻿using GeoLambdaApi.Models;
 using GeoLambdaApi.Models.Requests;
 using GeoLambdaApi.Models.Responses;
 

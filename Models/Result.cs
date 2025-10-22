@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-
+﻿
 namespace GeoLambdaApi.Models;
 
 public record Error(string Code, string Message, IDictionary<string, string[]>? Validation = null);

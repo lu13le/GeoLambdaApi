@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-using GeoLambdaApi.Models;
+﻿using GeoLambdaApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using GeoLambdaApi.Models.Responses;
-using Microsoft.AspNetCore.Http;
 
 namespace GeoLambdaApi.Extensions;
 

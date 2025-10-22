@@ -1,6 +1,4 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using GeoLambdaApi.Extensions;
+﻿using GeoLambdaApi.Extensions;
 using GeoLambdaApi.Handlers.Interfaces;
 using GeoLambdaApi.Models.Requests;
 using Microsoft.AspNetCore.Mvc;

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 using GeoLambdaApi.Models.Requests;
 using GeoLambdaApi.Validations.Interfaces;
 
