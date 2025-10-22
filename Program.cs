@@ -1,3 +1,4 @@
+using System;
 using Amazon;
 using Amazon.DynamoDBv2;
 using GeoLambdaApi.Handlers.Interfaces;
@@ -7,6 +8,10 @@ using GeoLambdaApi.Repositories.Interfaces;
 using GeoLambdaApi.Validations;
 using GeoLambdaApi.Validations.Interfaces;
 using GeoLambdaApi.Handlers;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 

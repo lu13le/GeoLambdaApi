@@ -1,4 +1,5 @@
-﻿using GeoLambdaApi.Models.Requests;
+﻿using System.Collections.Generic;
+using GeoLambdaApi.Models.Requests;
 
 namespace GeoLambdaApi.Validations.Interfaces;
 

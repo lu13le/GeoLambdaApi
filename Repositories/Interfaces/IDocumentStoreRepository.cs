@@ -1,4 +1,5 @@
-﻿using GeoLambdaApi.Models.Data;
+﻿using System.Threading.Tasks;
+using GeoLambdaApi.Models.Data;
 
 namespace GeoLambdaApi.Repositories.Interfaces;
 
